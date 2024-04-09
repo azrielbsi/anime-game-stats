@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 08, 2024 19:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 09, 2024 07:57 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_08_04_2024-19_24_22.png" />
+    <img src="images/profile/itaya_09_04_2024-07_57_39.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -1194,7 +1194,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_08_04_2024-19_24_07.png" />
+    <img src="images/profile/genshin_profile_09_04_2024-07_57_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -1203,17 +1203,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -4835,16 +4835,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_08_04_2024-19_23_42.png" />
+  <img src="images/showcase/genshin_card_09_04_2024-07_56_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_08_04_2024-19_23_43.png" />
+  <img src="images/showcase/genshin_card_09_04_2024-07_57_00.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_08_04_2024-19_24_18.png" />
+  <img src="images/showcase/March-7th_09_04_2024-07_57_34.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
