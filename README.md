@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 17, 2024 19:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 18, 2024 07:57 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_17_04_2024-19_24_35.png" />
+    <img src="images/profile/itaya_18_04_2024-07_57_16.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>33</td>
+        <td>35</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>78</td>
+        <td>79</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>827 (rate 143)</td>
+        <td>1177 (rate 246)</td>
       </tr>
       <tr>
         <td>
@@ -83,13 +83,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>12 (rate 1100)</td>
+        <td>20 (rate 1900)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 720 (87%)<br />Adventure Rewards: 75 (9%)<br />Daily Activity:
-          20 (2%)<br />Other: 12 (2%)<br />Event: 0 (0%)<br />Simulated
+          Mail: 720 (61%)<br />Adventure Rewards: 425 (36%)<br />Other: 12
+          (2%)<br />Daily Activity: 20 (1%)<br />Event: 0 (0%)<br />Simulated
           Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -155,21 +155,21 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/3aad5f3a00facb20d3bf993da91e70cf.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5c9bb14941b3e4540ba52fca390471e2.png"
                     ,
                     height="18"
                   />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f2beb5778e499962d5040b407c6542bd.png"
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5ab0e57213aff6e90b27531d3089b178.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/b9574594e7c6ce5afa571877e3b76322.png"
+                  Knight's Silent Oath Ring<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/7001ddc57547532955c8ce9a959137d4.png"
                     ,
                     height="18"
                   />
-                  Thief's Steel Grappling Hook<br /><img
+                  Knight's Solemn Breastplate<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5429cb753ee4c559a562c35d04e3bf79.png"
                     ,
                     height="18"
@@ -203,7 +203,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>21</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -271,21 +271,21 @@
                     height="18"
                   />
                   Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f2beb5778e499962d5040b407c6542bd.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/3b80fec71f23a2aecd7c6e1a45966d8f.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
+                  Passerby's Roaming Dragon Bracer<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/875471082186d8a6d83db96cbec200e2.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/949e00a8ceb924f1fc00323b4fdd3461.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/33d5126a92c9a1ba4ee6a3505afcbbc3.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  Passerby's Stygian Hiking Boots<br />
                 </td>
               </tr>
             </table>
@@ -298,7 +298,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -583,7 +583,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>33</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -646,11 +646,11 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/3aad5f3a00facb20d3bf993da91e70cf.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/dec56511e988918bab947e3434a6df48.png"
                     ,
                     height="18"
                   />
-                  Thief's Myriad-Faced Mask<br /><img
+                  Firesmith's Obsidian Goggles<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/a96dd1d6076271a0a4e7cc0d267aaad0.png"
                     ,
                     height="18"
@@ -661,11 +661,11 @@
                     height="18"
                   />
                   Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5429cb753ee4c559a562c35d04e3bf79.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/d16c0d3f3bf7713f6af79e6e759c6440.png"
                     ,
                     height="18"
                   />
-                  Thief's Meteor Boots<br />
+                  Knight's Iron Boots of Order<br />
                 </td>
               </tr>
             </table>
@@ -1263,7 +1263,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_17_04_2024-19_24_18.png" />
+    <img src="images/profile/genshin_profile_18_04_2024-07_57_03.png" />
   </div>
   <div align="center">
     <h2>
@@ -1272,17 +1272,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -4904,16 +4904,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_17_04_2024-19_23_51.png" />
+  <img src="images/showcase/genshin_card_18_04_2024-07_56_37.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_17_04_2024-19_23_52.png" />
+  <img src="images/showcase/genshin_card_18_04_2024-07_56_38.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_17_04_2024-19_24_29.png" />
+  <img src="images/showcase/March-7th_18_04_2024-07_57_12.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
