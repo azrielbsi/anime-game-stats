@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 20, 2024 07:58 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 20, 2024 19:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_20_04_2024-07_58_10.png" />
+    <img src="images/profile/itaya_20_04_2024-19_22_51.png" />
   </div>
   <div align="center">
     <h2>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>82</td>
+        <td>85</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>87</td>
+        <td>89</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2227 (rate 555)</td>
+        <td>2354 (rate 592)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 780 (35%)<br />Mail: 750 (33%)<br />Adventure Rewards: 645
-          (28%)<br />Other: 12 (3%)<br />Daily Activity: 40 (1%)<br />Simulated
+          Event: 780 (33%)<br />Adventure Rewards: 750 (31%)<br />Mail: 750
+          (31%)<br />Other: 14 (3%)<br />Daily Activity: 60 (2%)<br />Simulated
           Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -1263,7 +1263,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_20_04_2024-07_57_55.png" />
+    <img src="images/profile/genshin_profile_20_04_2024-19_22_37.png" />
   </div>
   <div align="center">
     <h2>
@@ -4904,16 +4904,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_20_04_2024-07_57_29.png" />
+  <img src="images/showcase/genshin_card_20_04_2024-19_22_12.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_20_04_2024-07_57_30.png" />
+  <img src="images/showcase/genshin_card_20_04_2024-19_22_13.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_20_04_2024-07_58_04.png" />
+  <img src="images/showcase/March-7th_20_04_2024-19_22_46.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
