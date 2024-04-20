@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 19, 2024 19:24 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 20, 2024 07:58 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_19_04_2024-19_24_10.png" />
+    <img src="images/profile/itaya_20_04_2024-07_58_10.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>35</td>
+        <td>37</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>79</td>
+        <td>82</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>1177 (rate 246)</td>
+        <td>2227 (rate 555)</td>
       </tr>
       <tr>
         <td>
@@ -83,13 +83,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>20 (rate 1900)</td>
+        <td>24 (rate 2300)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 720 (61%)<br />Adventure Rewards: 425 (36%)<br />Other: 12
-          (2%)<br />Daily Activity: 20 (1%)<br />Event: 0 (0%)<br />Simulated
+          Event: 780 (35%)<br />Mail: 750 (33%)<br />Adventure Rewards: 645
+          (28%)<br />Other: 12 (3%)<br />Daily Activity: 40 (1%)<br />Simulated
           Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -551,26 +551,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5c9bb14941b3e4540ba52fca390471e2.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/3aad5f3a00facb20d3bf993da91e70cf.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/a96dd1d6076271a0a4e7cc0d267aaad0.png"
+                  Thief's Myriad-Faced Mask<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/3b80fec71f23a2aecd7c6e1a45966d8f.png"
                     ,
                     height="18"
                   />
-                  Thief's Gloves With Prints<br /><img
+                  Passerby's Roaming Dragon Bracer<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/875471082186d8a6d83db96cbec200e2.png"
                     ,
                     height="18"
                   />
                   Musketeer's Wind-Hunting Shawl<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5429cb753ee4c559a562c35d04e3bf79.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/949e00a8ceb924f1fc00323b4fdd3461.png"
                     ,
                     height="18"
                   />
-                  Thief's Meteor Boots<br />
+                  Musketeer's Rivets Riding Boots<br />
                 </td>
               </tr>
             </table>
@@ -1263,7 +1263,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_19_04_2024-19_23_57.png" />
+    <img src="images/profile/genshin_profile_20_04_2024-07_57_55.png" />
   </div>
   <div align="center">
     <h2>
@@ -1272,17 +1272,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
             height="20"
           />
-          Primogem
+          Fisherman's Toast
         </td>
       </tr>
     </table>
@@ -4904,16 +4904,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_19_04_2024-19_23_32.png" />
+  <img src="images/showcase/genshin_card_20_04_2024-07_57_29.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_19_04_2024-19_23_33.png" />
+  <img src="images/showcase/genshin_card_20_04_2024-07_57_30.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_19_04_2024-19_24_07.png" />
+  <img src="images/showcase/March-7th_20_04_2024-07_58_04.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
