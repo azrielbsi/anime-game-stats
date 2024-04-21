@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 20, 2024 19:22 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 21, 2024 08:02 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_20_04_2024-19_22_51.png" />
+    <img src="images/profile/itaya_21_04_2024-08_02_23.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Credit
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2354 (rate 592)</td>
+        <td>2384 (rate 601)</td>
       </tr>
       <tr>
         <td>
@@ -83,13 +83,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>24 (rate 2300)</td>
+        <td>26 (rate 2500)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 780 (33%)<br />Adventure Rewards: 750 (31%)<br />Mail: 750
-          (31%)<br />Other: 14 (3%)<br />Daily Activity: 60 (2%)<br />Simulated
+          Event: 780 (32%)<br />Adventure Rewards: 755 (31%)<br />Mail: 750
+          (31%)<br />Daily Activity: 85 (3%)<br />Other: 14 (3%)<br />Simulated
           Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -1263,7 +1263,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_20_04_2024-19_22_37.png" />
+    <img src="images/profile/genshin_profile_21_04_2024-08_02_08.png" />
   </div>
   <div align="center">
     <h2>
@@ -1272,17 +1272,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fisherman's Toast
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -4904,16 +4904,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_20_04_2024-19_22_12.png" />
+  <img src="images/showcase/genshin_card_21_04_2024-08_01_44.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_20_04_2024-19_22_13.png" />
+  <img src="images/showcase/genshin_card_21_04_2024-08_01_45.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_20_04_2024-19_22_46.png" />
+  <img src="images/showcase/March-7th_21_04_2024-08_02_18.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
