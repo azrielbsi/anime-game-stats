@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 25, 2024 08:00 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 26, 2024 07:58 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_25_04_2024-08_00_43.png" />
+    <img src="images/profile/itaya_26_04_2024-07_58_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
             height="20"
           />
-          Credit
+          Disposable Kinetic Arm
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>38</td>
+        <td>39</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>85</td>
+        <td>87</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>2639 (rate 676)</td>
+        <td>2971 (rate 773)</td>
       </tr>
       <tr>
         <td>
@@ -83,13 +83,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>32 (rate 3100)</td>
+        <td>34 (rate 3300)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 960 (36%)<br />Adventure Rewards: 760 (28%)<br />Mail: 750
-          (28%)<br />Other: 74 (5%)<br />Daily Activity: 95 (3%)<br />Simulated
+          Event: 1220 (41%)<br />Adventure Rewards: 800 (26%)<br />Mail: 770
+          (25%)<br />Other: 76 (5%)<br />Daily Activity: 105 (3%)<br />Simulated
           Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -1401,7 +1401,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_25_04_2024-08_00_23.png" />
+    <img src="images/profile/genshin_profile_26_04_2024-07_58_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -1410,17 +1410,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Mora
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -5042,16 +5042,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_04_2024-07_59_56.png" />
+  <img src="images/showcase/genshin_card_26_04_2024-07_57_49.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_04_2024-07_59_57.png" />
+  <img src="images/showcase/genshin_card_26_04_2024-07_57_51.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_25_04_2024-08_00_39.png" />
+  <img src="images/showcase/March-7th_26_04_2024-07_58_23.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
