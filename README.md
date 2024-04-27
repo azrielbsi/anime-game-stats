@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 27, 2024 07:57 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 27, 2024 19:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_27_04_2024-07_57_54.png" />
+    <img src="images/profile/itaya_27_04_2024-19_22_17.png" />
   </div>
   <div align="center">
     <h2>
@@ -1401,7 +1401,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_27_04_2024-07_57_40.png" />
+    <img src="images/profile/genshin_profile_27_04_2024-19_22_01.png" />
   </div>
   <div align="center">
     <h2>
@@ -1441,7 +1441,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>173</td>
+        <td>174</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -1449,7 +1449,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>281</td>
+        <td>282</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -1465,7 +1465,7 @@
       </tr>
       <tr>
         <td>Electroculi</td>
-        <td>65</td>
+        <td>66</td>
       </tr>
       <tr>
         <td>Hydroculi</td>
@@ -1485,7 +1485,7 @@
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>53</td>
+        <td>54</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
@@ -1723,7 +1723,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/32/" width="80" />
+                <img src="https://progress-bar.dev/33/" width="80" />
               </td>
             </tr>
             <tr>
@@ -1829,7 +1829,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>537 (rate -48)</td>
       </tr>
       <tr>
         <td>
@@ -1839,14 +1839,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>254407 (rate -57)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other:
-          0 (0%)<br />
+          Mail: 380 (71%)<br />Events: 100 (19%)<br />Adventure: 45 (8%)<br />Daily
+          Activity: 10 (1%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+          2 (1%)<br />
         </td>
       </tr>
     </table>
@@ -4716,7 +4716,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>
@@ -5042,16 +5042,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_04_2024-07_57_15.png" />
+  <img src="images/showcase/genshin_card_27_04_2024-19_21_35.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_04_2024-07_57_16.png" />
+  <img src="images/showcase/genshin_card_27_04_2024-19_21_36.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_27_04_2024-07_57_49.png" />
+  <img src="images/showcase/March-7th_27_04_2024-19_22_12.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
