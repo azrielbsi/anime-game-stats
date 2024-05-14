@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 14, 2024 08:00 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 14, 2024 19:26 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_14_05_2024-08_00_36.png" />
+    <img src="images/profile/itaya_14_05_2024-19_26_48.png" />
   </div>
   <div align="center">
     <h2>
@@ -1359,7 +1359,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_14_05_2024-08_00_24.png" />
+    <img src="images/profile/genshin_profile_14_05_2024-19_26_33.png" />
   </div>
   <div align="center">
     <h2>
@@ -1399,7 +1399,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>177</td>
+        <td>178</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -1797,7 +1797,7 @@
           />
           Mora earned
         </td>
-        <td>44905 (rate -86)</td>
+        <td>61925 (rate -81)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -2031,7 +2031,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -2098,7 +2098,7 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Berserker<br />2 x Gladiator's Finale<br />1
+                  Artifacts<br />1 x Berserker<br />3 x Gladiator's Finale<br />1
                   x Retracing Bolide<br />
                 </td>
                 <td>
@@ -2111,10 +2111,10 @@
                     height="18"
                   />
                   Gladiator's Destiny<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/9c39b5ea0b3749c76cf944a3a9ae7a45.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/4406772f6d464c0f2d69b69275717624.png"
                     height="18"
                   />
-                  Berserker's Timepiece<br /><img
+                  Gladiator's Longing<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/b8edb769855e60652745ce84288fdb9f.png"
                     height="18"
                   />
@@ -2143,7 +2143,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>40</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -2310,7 +2310,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -2367,7 +2367,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -5000,16 +5000,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_14_05_2024-07_59_59.png" />
+  <img src="images/showcase/genshin_card_14_05_2024-19_26_09.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_14_05_2024-08_00_00.png" />
+  <img src="images/showcase/genshin_card_14_05_2024-19_26_10.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_14_05_2024-08_00_31.png" />
+  <img src="images/showcase/March-7th_14_05_2024-19_26_43.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
