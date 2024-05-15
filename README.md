@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 15, 2024 08:01 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 15, 2024 19:27 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_15_05_2024-08_00_22.png" />
+    <img src="images/profile/itaya_15_05_2024-19_27_46.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,15 +48,15 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>40</td>
+        <td>41</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>91</td>
+        <td>92</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>911 (rate -80)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>1 (rate -97)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
-          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
-          0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 680 (74%)<br />Other: 201 (23%)<br />Adventure Rewards: 20
+          (2%)<br />Daily Activity: 10 (1%)<br />Event: 0 (0%)<br />Simulated
+          Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -109,7 +109,7 @@
       <table>
         <tr>
           <th><h3>Trailblazer</h3></th>
-          <th><h3></h3></th>
+          <th><h3>Landau's Choice</h3></th>
         </tr>
         <tr>
           <td>
@@ -120,7 +120,11 @@
             </p>
           </td>
           <td>
-            <p align="center"><img src="" /></p>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/7d971e691d5df1540569d12902c0fb89.png"
+              />
+            </p>
           </td>
         </tr>
         <tr>
@@ -149,7 +153,45 @@
               </tr>
               <tr>
                 <td>Relics</td>
-                <td></td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/fb7500c4106d5b0bb234bad6dd0199c7.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/8ae72612cf5822adda8c30a164707f12.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Silent Oath Ring<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/04358e809d306fade3be0ff4dadc70cc.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Solemn Breastplate<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/0db91da83d5dbfeff9bb8b065054ddc0.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Meteor Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/04e5eb4ec22ed9a0a7816ac3fcdf8605.png"
+                    ,
+                    height="18"
+                  />
+                  Herta's Space Station<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/842d7554fa5ad699fe6d4aa5044e56c3.png"
+                    ,
+                    height="18"
+                  />
+                  Herta's Wandering Trek<br />
+                </td>
               </tr>
             </table>
           </td>
@@ -157,15 +199,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td></td>
+                <td>Landau's Choice</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td></td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td></td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -503,7 +545,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -843,6 +885,75 @@
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Misha </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Misha</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4ddff2259f477d099b74c5f3b038898f.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
                     height="18"
                   />
                 </td>
@@ -1359,7 +1470,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_15_05_2024-08_01_07.png" />
+    <img src="images/profile/genshin_profile_15_05_2024-19_27_32.png" />
   </div>
   <div align="center">
     <h2>
@@ -1399,7 +1510,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>178</td>
+        <td>179</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -1443,7 +1554,7 @@
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
-        <td>54</td>
+        <td>55</td>
       </tr>
       <tr>
         <td>Remarkable Chests Opened</td>
@@ -1787,7 +1898,7 @@
           />
           Primogems earned
         </td>
-        <td>104 (rate -84)</td>
+        <td>114 (rate -83)</td>
       </tr>
       <tr>
         <td>
@@ -1802,9 +1913,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 60 (58%)<br />Mail: 40 (39%)<br />Adventure: 4 (3%)<br />Events:
-          0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 0
-          (0%)<br />
+          Daily Activity: 60 (53%)<br />Mail: 40 (35%)<br />Adventure: 14
+          (12%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0
+          (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1974,7 +2085,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -2086,7 +2197,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -2098,15 +2209,15 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Berserker<br />3 x Gladiator's Finale<br />1
-                  x Retracing Bolide<br />
+                  Artifacts<br />1 x Wanderer's Troupe<br />3 x Gladiator's
+                  Finale<br />1 x Retracing Bolide<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/fd9752f6595c2364f9c7fd02a1897b7e.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/bed1f2b13abc517ca54a92a05a03e7a7.png"
                     height="18"
                   />
-                  Berserker's Rose<br /><img
+                  Troupe's Dawnlight<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/d5763e2e9cce646a1c9868c10fc3dd1d.png"
                     height="18"
                   />
@@ -2202,7 +2313,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -4786,7 +4897,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -5000,16 +5111,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_15_05_2024-08_00_42.png" />
+  <img src="images/showcase/genshin_card_15_05_2024-19_27_08.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_15_05_2024-08_00_43.png" />
+  <img src="images/showcase/genshin_card_15_05_2024-19_27_09.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_15_05_2024-08_00_17.png" />
+  <img src="images/showcase/March-7th_15_05_2024-19_27_41.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
