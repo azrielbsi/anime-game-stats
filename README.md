@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 15, 2024 19:27 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 16, 2024 08:00 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_15_05_2024-19_27_46.png" />
+    <img src="images/profile/itaya_16_05_2024-08_00_38.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1470,7 +1470,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_15_05_2024-19_27_32.png" />
+    <img src="images/profile/genshin_profile_16_05_2024-08_00_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -1479,17 +1479,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -1908,7 +1908,7 @@
           />
           Mora earned
         </td>
-        <td>125891 (rate -62)</td>
+        <td>127855 (rate -61)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -5111,16 +5111,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_15_05_2024-19_27_08.png" />
+  <img src="images/showcase/genshin_card_16_05_2024-07_59_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_15_05_2024-19_27_09.png" />
+  <img src="images/showcase/genshin_card_16_05_2024-08_00_00.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_15_05_2024-19_27_41.png" />
+  <img src="images/showcase/March-7th_16_05_2024-08_00_33.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
