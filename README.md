@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 16, 2024 19:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 17, 2024 08:01 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_16_05_2024-19_26_50.png" />
+    <img src="images/profile/itaya_17_05_2024-08_01_05.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1470,7 +1470,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_16_05_2024-19_26_33.png" />
+    <img src="images/profile/genshin_profile_17_05_2024-08_00_52.png" />
   </div>
   <div align="center">
     <h2>
@@ -1479,17 +1479,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -1506,7 +1506,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>291</td>
+        <td>297</td>
       </tr>
       <tr>
         <td>Days Active</td>
@@ -1518,7 +1518,7 @@
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
-        <td>282</td>
+        <td>286</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -1530,11 +1530,11 @@
       </tr>
       <tr>
         <td>Dendroculi</td>
-        <td>11</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Electroculi</td>
-        <td>66</td>
+        <td>67</td>
       </tr>
       <tr>
         <td>Hydroculi</td>
@@ -1542,15 +1542,15 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>406</td>
+        <td>418</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>422</td>
+        <td>424</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
-        <td>135</td>
+        <td>136</td>
       </tr>
       <tr>
         <td>Luxurious Chests Opened</td>
@@ -1562,7 +1562,7 @@
       </tr>
       <tr>
         <td>Domains Unlocked</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
     </table>
   </div>
@@ -1736,7 +1736,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.dev/5/" width="80" />
+                <img src="https://progress-bar.dev/7/" width="80" />
               </td>
             </tr>
             <tr>
@@ -1898,7 +1898,7 @@
           />
           Primogems earned
         </td>
-        <td>114 (rate -83)</td>
+        <td>637 (rate -7)</td>
       </tr>
       <tr>
         <td>
@@ -1908,14 +1908,14 @@
           />
           Mora earned
         </td>
-        <td>127855 (rate -61)</td>
+        <td>514156 (rate 54)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 60 (53%)<br />Mail: 40 (35%)<br />Adventure: 14
-          (12%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0
-          (0%)<br />Other: 0 (0%)<br />
+          Events: 300 (48%)<br />Daily Activity: 120 (19%)<br />Adventure: 113
+          (17%)<br />Mail: 100 (15%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0
+          (0%)<br />Other: 4 (1%)<br />
         </td>
       </tr>
     </table>
@@ -5111,16 +5111,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_16_05_2024-19_26_09.png" />
+  <img src="images/showcase/genshin_card_17_05_2024-08_00_27.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_16_05_2024-19_26_10.png" />
+  <img src="images/showcase/genshin_card_17_05_2024-08_00_28.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_16_05_2024-19_26_45.png" />
+  <img src="images/showcase/March-7th_17_05_2024-08_01_01.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
