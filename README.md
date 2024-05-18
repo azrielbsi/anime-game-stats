@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 18, 2024 07:59 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 18, 2024 19:24 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_18_05_2024-07_59_47.png" />
+    <img src="images/profile/itaya_18_05_2024-19_24_19.png" />
   </div>
   <div align="center">
     <h2>
@@ -1470,7 +1470,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_18_05_2024-07_59_32.png" />
+    <img src="images/profile/genshin_profile_18_05_2024-19_24_07.png" />
   </div>
   <div align="center">
     <h2>
@@ -1510,7 +1510,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>180</td>
+        <td>181</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5190,16 +5190,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_18_05_2024-07_59_07.png" />
+  <img src="images/showcase/genshin_card_18_05_2024-19_23_41.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_18_05_2024-07_59_08.png" />
+  <img src="images/showcase/genshin_card_18_05_2024-19_23_42.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_18_05_2024-07_59_43.png" />
+  <img src="images/showcase/March-7th_18_05_2024-19_24_15.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
