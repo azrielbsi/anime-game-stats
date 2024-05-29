@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 28, 2024 19:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 29, 2024 08:04 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_28_05_2024-19_26_41.png" />
+    <img src="images/profile/itaya_29_05_2024-08_04_48.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Traveler's Guide
+          Credit
         </td>
       </tr>
     </table>
@@ -1470,7 +1470,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_28_05_2024-19_26_25.png" />
+    <img src="images/profile/genshin_profile_29_05_2024-08_04_34.png" />
   </div>
   <div align="center">
     <h2>
@@ -1479,17 +1479,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Hero's Wit
+          Mora
         </td>
       </tr>
     </table>
@@ -5190,16 +5190,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_28_05_2024-19_25_58.png" />
+  <img src="images/showcase/genshin_card_29_05_2024-08_04_08.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_28_05_2024-19_25_59.png" />
+  <img src="images/showcase/genshin_card_29_05_2024-08_04_09.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_28_05_2024-19_26_37.png" />
+  <img src="images/showcase/March-7th_29_05_2024-08_04_45.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
