@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 29, 2024 19:27 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 30, 2024 08:01 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/itaya_29_05_2024-19_27_17.png" />
+    <img src="images/profile/itaya_30_05_2024-08_01_52.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,7 +21,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1470,7 +1470,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_29_05_2024-19_26_59.png" />
+    <img src="images/profile/genshin_profile_30_05_2024-08_01_34.png" />
   </div>
   <div align="center">
     <h2>
@@ -1479,7 +1479,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -5190,16 +5190,16 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_05_2024-19_26_32.png" />
+  <img src="images/showcase/genshin_card_30_05_2024-08_01_07.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_05_2024-19_26_33.png" />
+  <img src="images/showcase/genshin_card_30_05_2024-08_01_08.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>March 7th</summary>
-  <img src="images/showcase/March-7th_29_05_2024-19_27_12.png" />
+  <img src="images/showcase/March-7th_30_05_2024-08_01_46.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
