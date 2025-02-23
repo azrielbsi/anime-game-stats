@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Feb 23, 2025 09:29 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Feb 23, 2025 10:56 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -72,7 +72,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>14638 (rate 1463700)</td>
+        <td>14948 (rate 1494700)</td>
       </tr>
       <tr>
         <td>
@@ -87,8 +87,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 4945 (33%)<br />Event: 3090 (21%)<br />Simulated
-          Universe: 2630 (17%)<br />Mail: 1330 (9%)<br />Other: 763 (8%)<br />Daily
+          Adventure Rewards: 4955 (33%)<br />Event: 3090 (20%)<br />Simulated
+          Universe: 2930 (19%)<br />Mail: 1330 (8%)<br />Other: 763 (8%)<br />Daily
           Activity: 1080 (7%)<br />Forgotten Hall: 800 (5%)<br />
         </td>
       </tr>
@@ -4075,7 +4075,7 @@
         <td>24</td>
       </tr>
       <tr>
-        <td>most_played</td>
+        <td>Most_Played</td>
         <td>
           <img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/651781294115fa441c20a5b2d73b285c.png"
@@ -4101,7 +4101,7 @@
         </td>
       </tr>
       <tr>
-        <td>most_kills</td>
+        <td>Most_Kills</td>
         <td>
           <img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/8703b07e7ff6402208b63c8d56b69b5c.png"
@@ -4112,7 +4112,7 @@
         </td>
       </tr>
       <tr>
-        <td>strongest_strike</td>
+        <td>Strongest_Strike</td>
         <td>
           <img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/8703b07e7ff6402208b63c8d56b69b5c.png"
@@ -4123,7 +4123,7 @@
         </td>
       </tr>
       <tr>
-        <td>most_damage_taken</td>
+        <td>Most_Damage_Taken</td>
         <td>
           <img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/a997a911451444398904e3efcbe724a3.png"
@@ -4134,7 +4134,7 @@
         </td>
       </tr>
       <tr>
-        <td>most_bursts_used</td>
+        <td>Most_Bursts_Used</td>
         <td>
           <img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/4c83ec54cc48c79c3d61a084012ab490.png"
@@ -4145,7 +4145,7 @@
         </td>
       </tr>
       <tr>
-        <td>most_skills_used</td>
+        <td>Most_Skills_Used</td>
         <td>
           <img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ud6bmh/8703b07e7ff6402208b63c8d56b69b5c.png"
